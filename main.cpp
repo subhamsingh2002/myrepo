@@ -1,5 +1,5 @@
 cout<<"HELLO;
-void quicksort()
+void quicsort()
 {
     //
 }
