@@ -11,3 +11,4 @@ void insertion sort()
 {
     //
 }
+dummy nodes
