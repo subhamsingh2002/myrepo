@@ -7,3 +7,7 @@ void mergesort()
 {
     //
 }
+void insertion sort()
+{
+    //
+}
